@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **ThornWu/ThornWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a frontend developer in Baidu, inc.
+
+Currently I'm working on Low Code, Plugin Mechanism, Node.js and WASM.
+
+What I am concerned about are open source and open web.
+
+Contact me via wechat(thornwu) or [email](mailto:thornwu@163.com)
+
+[![ThornWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=thornwu)](https://github.com/anuraghazra/github-readme-stats)
