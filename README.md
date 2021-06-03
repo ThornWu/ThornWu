@@ -21,6 +21,6 @@ Currently I'm working on Low Code, Plugin Mechanism, Node.js and WASM.
 
 What I am concerned about are open source and open web.
 
-Contact me via wechat(thornwu) or [email](mailto:thornwu@163.com)
+Contact me via wechat(thornwu) or [email](mailto:thornwu@163.com).
 
 [![ThornWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=thornwu)](https://github.com/anuraghazra/github-readme-stats)
