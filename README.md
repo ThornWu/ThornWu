@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a frontend developer in Baidu, inc.
+I'm a frontend developer in OSCHINA.
 
 Currently I'm working on Low Code, Plugin Mechanism, Node.js and WASM.
 
